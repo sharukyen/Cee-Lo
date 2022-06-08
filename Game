@@ -42,8 +42,6 @@ def main():
     print_separator()
 
 
-# Paste your completed functions here
-
 
 def display_banner(user_name):
     star = "*" * (len(user_name) + len("Cee-lo Game by "))
